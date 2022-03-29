@@ -7,10 +7,10 @@
 * [Setup](#setup)
 
 ## General info
-> This project is based on creating a model that will predict the output for the feelings of any user.\n
-> The user is required to enter some text that hits his mind first.\n
-> Then the bot would reply with the answer to it\n
-> and broadly with the type of feeling of the user.\n
+> * This project is based on creating a model that will predict the output for the feelings of any user.
+> * The user is required to enter some text that hits his mind first.
+> * Then the bot would reply with the answer to it
+> * and broadly with the type of feeling of the user.
 	
 ## Technologies
 Project is created with:
